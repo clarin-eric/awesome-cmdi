@@ -1,30 +1,28 @@
-# Awesome Component Metadata Infrastructure (CMDI) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Component Metadata Infrastructure (CMDI) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of CMDI services, tools and documentation
 
-
-## Contents
-
+## Contents <!-- omit in toc -->
 - [Web pages](#web-pages)
 - [CMDI services](#cmdi-services)
-- [Specification documents](#specification-documents)
+- [Specification Documents](#specification-documents)
+- [Guides and tutorials](#guides-and-tutorials)
 - [Tools](#tools)
 - [Publications](#publications)
 
-##  Web pages
+## Web pages
 Web pages about CMDI
 
 - [Intro (new)]
 - [FAQs]
 
 ## CMDI services
-
-### Core services
+### Core services <!-- omit in toc -->
 - [Component Registry]
 - [CLAVAS]
 - [CCR]
 
-### Central services
+### Central services <!-- omit in toc -->
 - [Harvester?]
 - [VLO?]
 - [Curation?]
@@ -40,24 +38,23 @@ Web pages about CMDI
 - [https://www.clarin.eu/sites/default/files/AP3-007-CMDI_and_granularity.pdf] 
 
 ## Tools
-
-### General
+### General <!-- omit in toc -->
 - [CMD Toolkit]
 
-### Validation
+### Validation <!-- omit in toc -->
 - [Component validator]
 - [Instance validator]
 - [Curation]
 
-### Editing
+### Editing <!-- omit in toc -->
 
-### Conversion
+### Conversion <!-- omit in toc -->
 
-### Distribution
+### Distribution <!-- omit in toc -->
 - [Harvester]
 - [OAI providers]
 
-### Repository systems
+### Repository systems <!-- omit in toc -->
 - [Repo systems that support CMDI]
 
 ## Publications
