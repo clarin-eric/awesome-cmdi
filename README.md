@@ -5,26 +5,60 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Web pages](#web-pages)
+- [CMDI services](#cmdi-services)
+- [Specification documents](#specification-documents)
+- [Tools](#tools)
+- [Publications](#publications)
 
+##  Web pages
+Web pages about CMDI
 
-## Section
+- [Intro (new)]
+- [FAQs]
 
-About this section. Optional. Keep this short and focus on the list.
+## CMDI services
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Core services
+- [Component Registry]
+- [CLAVAS]
+- [CCR]
 
+### Central services
+- [Harvester?]
+- [VLO?]
+- [Curation?]
 
-## Another Section
+## Specification Documents
+- [Spec]
+- [CMDI 1.2 executive summary] 
+- [Stylesheets]
+- [ISO standard]
 
-### Subsection
+## Guides and tutorials
+- [Best practices]
+- [https://www.clarin.eu/sites/default/files/AP3-007-CMDI_and_granularity.pdf] 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Tools
 
+### General
+- [CMD Toolkit]
 
-## Contribute
+### Validation
+- [Component validator]
+- [Instance validator]
+- [Curation]
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+### Editing
+
+### Conversion
+
+### Distribution
+- [Harvester]
+- [OAI providers]
+
+### Repository systems
+- [Repo systems that support CMDI]
+
+## Publications
+
