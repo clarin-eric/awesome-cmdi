@@ -53,7 +53,7 @@ Component Metadata Infrastructure (CMDI)
 - [CMD Toolkit](https://github.com/clarin-eric/cmdi-toolkit/) - Contains the schemata, stylesheets and scripts that form the basis of CMDI.
 
 ### Validation <!-- omit in toc -->
-- [Component validator](https://github.com/clarin-eric/cmd-validate) - A library for validating CMD component specifications using XSD and Schematron ("CMDValidate").
+- [Component validator](https://github.com/clarin-eric/cmd-validate) - A library ("CMDValidate") for validating CMD component specifications using XSD and Schematron.
 - [Instance validator](https://github.com/clarin-eric/cmdi-instance-validator) - Java based utility for validating CMDI records.
 
 ### Editing <!-- omit in toc -->
@@ -76,4 +76,4 @@ Component Metadata Infrastructure (CMDI)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
