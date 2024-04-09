@@ -34,7 +34,7 @@ Web pages about CMDI
   - [Minimal CMD validation](https://infra.clarin.eu/cmd/xsd/minimal-cmdi.xsd)
 
 ### CMDI 1.2 <!-- omit in toc -->
-- [CMDI specification](https://www.clarin.eu/cmdi1.2-specification) - Complete specification for CMDI 1.2
+- [CMDI specification](https://www.clarin.eu/cmdi1.2-specification) - Complete specification for CMDI 1.2.
   - [Summary of changes](https://office.clarin.eu/v/CE-2014-0318-CMDI_1_2-executive_summary.pdf) - Executive summary of changes in CMDI 1.2 compared to CMDI 1.1.
 - ISO 24622 - Language resource management.
 Component Metadata Infrastructure (CMDI)
@@ -71,9 +71,8 @@ Component Metadata Infrastructure (CMDI)
 - [TLA FLAT](https://github.com/TLA-FLAT) - Repository solution based on Islandora, developed at the Max Planck Institute for Psycholinguistics.
 
 ## Publications
-- [CLARIN: The infrastructure for language resources](https://www.degruyter.com/document/doi/10.1515/9783110767377/html) - Chapter "Component metadata infrastructure". 
-  - _Windhouwer, M., & Goosen, T. (2022). Component metadata infrastructure. CLARIN: The infrastructure for language resources, 191-222._
-  - [PDF version](https://www.degruyter.com/document/doi/10.1515/9783110767377/pdf) - free digital copy of the entire book (CC-BY)
+- [CLARIN: The infrastructure for language resources](https://www.degruyter.com/document/doi/10.1515/9783110767377/html) - Chapter: _Windhouwer, M., & Goosen, T. (2022). Component metadata infrastructure. CLARIN: The infrastructure for language resources, 191-222._
+  - [PDF version](https://www.degruyter.com/document/doi/10.1515/9783110767377/pdf) - Free digital copy of the entire book (CC-BY).
 
 ## Contribute
 
