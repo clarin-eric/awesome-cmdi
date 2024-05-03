@@ -81,8 +81,8 @@ Component Metadata Infrastructure (CMDI)
    - [Schema for the record envelope](https://infra.clarin.eu/CMDI/1.2/xsd/cmd-envelop.xsd)
 
 ## Publications
-- [CLARIN: The infrastructure for language resources](https://doi.org/10.1515/9783110767377-008) - Chapter: _Windhouwer, M., & Goosen, T. (2022). Component metadata infrastructure. CLARIN: The infrastructure for language resources, 191-222. https://doi.org/10.1515/9783110767377-008_
-   - [PDF version](https://www.degruyter.com/document/doi/10.1515/9783110767377/pdf) - Free digital copy of the entire book (CC-BY).
+- [Component Metadata Infrastructure](https://doi.org/10.1515/9783110767377-008) - Book chapter (Windhouwer, M., & Goosen, T. (2022). Component metadata infrastructure. _[CLARIN: The infrastructure for language resources](https://doi.org/10.1515/9783110767377)_, 191-222).
+   - [Free digital copy](https://www.degruyter.com/document/doi/10.1515/9783110767377-008/pdf) - PDF version of the chapter (CC-BY).
 - [CMDI first aid kit](https://www.clarin.eu/media/4427) - A printable booklet with helpful links for CMDI users.
 
 ## Contribute
