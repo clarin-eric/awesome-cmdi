@@ -15,7 +15,7 @@
 Web pages about CMDI:
 
 - [CMDI home page](https://www.clarin.eu/cmdi) - An introduction to CMDI and usage description for metadata modellers, authors and repository managers.
-- [FAQs](https://www.clarin.eu/faq-page/267) - Frequently asked questions about metadata in CLARIN.
+- [FAQs](https://forum.clarin.eu/c/faq/metadata) - Frequently asked questions about metadata in CLARIN.
 
 ## Guides and tutorials
 - [Video lecture: "CMDI explained"](https://www.youtube.com/watch?v=1ePB5H31GKs&t=1825s) - Ten minute introduction to CMDI by Henk van den Heuvel.
