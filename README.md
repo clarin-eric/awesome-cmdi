@@ -63,6 +63,12 @@ CMDI based services that are maintained and hosted centrally by CLARIN ERIC:
 - [CLARIN DSpace](https://github.com/ufal/clarin-dspace) - Adaptation of DSpace that supports CMDI and other CLARIN requirements and conventions, developed at the Institute of Formal and Applied Linguistics of the Charles University.
 - [TLA FLAT](https://github.com/TLA-FLAT) - Repository solution based on Islandora, developed at the Max Planck Institute for Psycholinguistics.
 
+### Concepts <!-- omit in toc -->
+- Support tools and definitions for the migration from the CLARIN Concept Registry to Wikidata in CMD Profiles and Components:
+  - [concepts-wikidata-migration](https://github.com/clarin-eric/concepts-wikidata-migration)
+  - [compreg-wikidata-migration](https://github.com/clarin-eric/compreg-wikidata-migration)
+  - [vlo-wikidata-migration](https://github.com/clarin-eric/vlo-wikidata-migration)
+
 ## Specification Documents
 ### CMDI 1.1 <!-- omit in toc -->
 - XSD Schemas - Common schemas for CMDI 1.1.
